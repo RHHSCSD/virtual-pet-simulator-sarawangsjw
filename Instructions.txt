@@ -1,0 +1,5 @@
+Virtual Pet Stimulator
+- Select a pet from cat, dog, and rabbit
+- Name your pet or generate a random name for it
+- Play mini games to earn money to play, feed, and groom your pet
+- Play, feed, and groom your pet to increase its health, food, and energy
